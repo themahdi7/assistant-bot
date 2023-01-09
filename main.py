@@ -3,7 +3,7 @@ import telegram.ext
 from telegram.constants import ParseMode
 from telegram.ext import ApplicationBuilder, ContextTypes, CallbackContext
 
-TOKEN = '5357396745:AAGGnULZhkxOtzex39uN9qDd6u_ODJiM89M'
+TOKEN = ''
 
 # assistant list
 assistant = []
